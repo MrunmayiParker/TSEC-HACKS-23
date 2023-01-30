@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sass": "^1.57.1",
+    "use-local-storage": "^2.3.6"
+  }
+}
